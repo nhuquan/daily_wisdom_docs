@@ -1,18 +1,18 @@
 <rss version="2.0">
   <channel>
-    <title>SoundGround</title>
-    <description>Documentation for the SoundGround project.</description>
+    <title>DailyWisdom</title>
+    <description>Documentation for the DailyWisdom project.</description>
     <link></link>
     <language>en-us</language>
-    <pubDate>25 Oct 2024</pubDate>
-    <lastBuildDate>25 Oct 2024</lastBuildDate>
+    <pubDate>30 Dec 2024</pubDate>
+    <lastBuildDate>30 Dec 2024</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-      <title>SoundGround Privacy Policy</title>
+      <title>DailyWisdom Privacy Policy</title>
       <link>//posts/privacy/</link>
-      <pubDate>2024-10-25</pubDate>
+      <pubDate>2024-12-30</pubDate>
       <guid>//posts/privacy/</guid>
-      <author>John Smith</author>
+      <author>Daniel Dang</author>
     </item>
     <item>
       <title>SoundGound Privacy Policy</title>

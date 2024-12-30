@@ -20,8 +20,8 @@ Future<void> main(List<String> arguments) async {
     ))
     ..plugin(RssPlugin(
       site: RssSiteConfiguration(
-        title: "SoundGround",
-        description: "Documentation for the SoundGround project.",
+        title: "DailyWisdom",
+        description: "Documentation for the DailyWisdom project.",
         homePageUrl: "",
       ),
       pageToRssItemMapper: (RssSiteConfiguration config, Page page) {
